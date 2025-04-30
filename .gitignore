@@ -1,0 +1,61 @@
+# 👉 Exclude the Assets folder (since it's too large to upload)
+Assets/
+
+# Core Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio / Rider / IDE files
+.vscode/
+.vs/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unity generated project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Crash reports
+sysinfo.txt
+
+# Android / iOS builds
+*.apk
+*.aab
+.gradle/
+*.keystore
+
+# Build output
+*.exe
+*.zip
+*.app
+*.ipa
+*.xcodeproj
+*.xcworkspace
+
+# Unity asset store tools (optional)
+Assets/AssetStoreTools*
+
+# JetBrains Rider
+.idea/
+*.sln.iml
